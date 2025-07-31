@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
+pip-selfcheck.json
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.pyc
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+
+# dotenv
+.env
+
+# Jupyter Notebook checkpoints (if added later)
+.ipynb_checkpoints/
+
+# Ignore frontend dependencies if added later
+frontend/node_modules/
